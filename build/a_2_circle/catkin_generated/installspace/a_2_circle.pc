@@ -1,0 +1,8 @@
+prefix=/home/oleroessler/catkin_ws/install
+
+Name: a_2_circle
+Description: Description of a_2_circle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

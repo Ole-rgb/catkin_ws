@@ -1,0 +1,2 @@
+a_1_publisher_subscriber:a_2_circle
+-DCATKIN_DEVEL_PREFIX=/home/oleroessler/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/oleroessler/catkin_ws/install -G Unix Makefiles
